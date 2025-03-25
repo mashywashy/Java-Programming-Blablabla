@@ -1,6 +1,3 @@
-Here's the repository description in Markdown format:
-
-```markdown
 # Java Competitive Programming Practice
 
 This repository contains solutions and practice exercises for competitive programming using Java. It is designed to help you master the essential techniques and algorithms needed to efficiently solve problems related to array and string manipulations.
@@ -33,6 +30,4 @@ This repository contains solutions and practice exercises for competitive progra
 Feel free to fork the repository, add new solutions, or suggest improvements. Pull requests are welcome!
 
 Happy coding! 🚀
-```
 
-You can copy and paste this directly into your GitHub repository's README file. It provides an overview of the topics and how to get started with your competitive programming practice!
